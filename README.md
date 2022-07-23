@@ -1,6 +1,4 @@
-"# Lab-Raspberry" 
-
-#Summary
+# Summary
 研究室のラズパイを使ったシステムをまとめているリポジトリです。
 - radar_camera.py
   - カメラとミリ波レーダの同期を行うためのプログラム
@@ -8,7 +6,7 @@
   - realsenseT265とミリ波レーダの同期を行うためのプログラム
 
 
-# requirements
+# Requirements
 1. pyrealsense2
 2. opencv
 3. numpy
